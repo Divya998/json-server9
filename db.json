@@ -1,0 +1,17 @@
+{ 
+  "suppliersmap":[
+    {
+      "region":"Belgium",
+      "site":"Althea Powell",
+      "supplier":"SupplierName ab1",
+      "assignTo":" User SupplierName ab3 Mr",
+      "ccAssignTo":" User SupplierName ab3 Mr"
+    },
+    {
+      "region":"South Africa",
+      "site":"Whilemina Blankenship",
+      "supplier":"SupplierName ab5",
+      "assignTo":" User SupplierName ab5 Mr",
+      "ccAssignTo":" User SupplierName ab1 Mr"
+    }]
+}
